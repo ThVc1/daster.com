@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Account</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Betting Website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="betting.html">Place Bets</a></li>
+                <li><a href="results.html">Results</a></li>
+                <li><a href="account.html">My Account</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>My Account</h2>
+        <p>Balance: $0.00</p>
+        <button>Deposit</button>
+        <button>Withdraw</button>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Betting Website. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

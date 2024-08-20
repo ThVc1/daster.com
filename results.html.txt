@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Betting Website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="betting.html">Place Bets</a></li>
+                <li><a href="results.html">Results</a></li>
+                <li><a href="account.html">My Account</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Results</h2>
+        <ul class="results-list">
+            <li>Event 1: Winner - Team A</li>
+            <li>Event 2: Winner - Team B</li>
+            <li>Event 3: Winner - Team C</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Betting Website. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
